@@ -11,3 +11,6 @@ hey! i am going to add some fruits
 orange
 banana
 mango
+hey! you should add your birthday.
+I know your birthday, so i am now ggoing to add this.
+31.08.1994
