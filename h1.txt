@@ -3,3 +3,7 @@ hello
 how are u?
 how do u do?
 souvanik
+red
+yellow
+green 
+blue
